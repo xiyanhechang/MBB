@@ -12,3 +12,7 @@ MBB 是《杯杯倒满 Feed The Cups》地铁模式的选卡助手
 - 提示缺少 Interception：安装 Interception 后重启电脑
 - 游戏请用窗口 / 无边框模式；独占全屏下无法截屏识别
 - 如果因各种原因无法安装 Interception，程序会自动改用虚拟手柄：开始前先拔掉实体手柄，选完卡再插回
+
+## 【开源库】
+- MaaFramework
+- Interception
